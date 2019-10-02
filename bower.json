@@ -1,0 +1,13 @@
+{
+  "name": "api.uncachedarea",
+  "version": "1.0.1",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
